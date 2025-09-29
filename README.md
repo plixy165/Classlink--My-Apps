@@ -1,11 +1,11 @@
 # getuot
-Utopia Unblocker unblocks hundreds of millions of websites and bypasses web restrictions with ease.
+a Unblocker unblocks hundreds of millions of websites and bypasses web restrictions with ease.
 
 ## Special Features
-These features can be enabled/disabled in the Settings page in Utopia:
+These features can be enabled/disabled in the Settings page in a:
  - Hidden Mode
-   - Utopia revolutionized by being the first ever proxy site to have about:blank cloaking
-   - Hides everything you do with Utopia from your history and prevents extensions such as GoGuardian from seeing your screen
+   - a revolutionized by being the first ever proxy site to have about:blank cloaking
+   - Hides everything you do with a from your history and prevents extensions such as GoGuardian from seeing your screen
  - Anti-Closing
    - Prevents extensions such as GoGuardian from closing the tab you're on
  - Tab Cloak
@@ -14,7 +14,7 @@ These features can be enabled/disabled in the Settings page in Utopia:
    - Access websites faster than ever with a click of a button
 
 ## Deployment
-Here are various deployment options to deploy Utopia on your own.
+Here are various deployment options to deploy a on your own.
 
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/UtopiaUnblocker/Utopia)
 <br>
@@ -30,4 +30,4 @@ Here are various deployment options to deploy Utopia on your own.
 <br>
 [![Deploy To Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/UtopiaUnblocker/Utopia&branch=main&name=Utopia)
 
-If you would like to deploy Utopia but don't understand how to use these or need help, join our discord server here: https://discord.gg/hFZC5cgsmq
+If you would like to deploy a but don't understand how to use these or need help, join our discord server here: https://discord.gg/hFZC5cgsmq
